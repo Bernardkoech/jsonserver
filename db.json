@@ -1,0 +1,18 @@
+{
+    "Durags": [
+        {
+            "id": 1,
+            "image_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/34/835286/1.jpg?5949"
+        },
+
+        {
+            "id":2,
+            "image_url": "https://i.pinimg.com/564x/54/c1/b3/54c1b3a7b890cd193af2751fccb075c2.jpg"
+        },
+
+        {
+            "id": 3,
+            "image_url": "https://i.pinimg.com/564x/30/ca/bd/30cabd2dbe3bbc9541b44a1972f80df8.jpg"
+        }
+    ]
+}
